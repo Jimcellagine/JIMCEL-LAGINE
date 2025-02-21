@@ -1,0 +1,61 @@
+.nav.bar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #304438;
+}
+.btn{
+font-size: 20px;
+font-family:"Times New Romans" , Times,serif;
+border-radius: 0;
+transition: all ease-in .5s;
+}
+.btn-brand {
+    background-color: #304438;
+    color: #fff
+}
+.btn-brand {
+    border:2px solid #304438
+}
+.nav.nav-link{
+
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+color: #304438;
+text-transform: uppercase ;
+}
+#banner{
+    background: url('jimz.jpeg');
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#banner h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+#banner p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+section{
+    padding: 100px 0;
+}
+.card-img-top{
+    width: 50%;
+}
+.card {
+    border-radius: 0;
+    margin-top: 30px;
+    border: 3px solid #304438;
+    padding: 20px;
+
+.card card-title{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+#shess h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}    
